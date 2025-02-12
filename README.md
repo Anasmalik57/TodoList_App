@@ -28,11 +28,11 @@ UUID (for unique task IDs)
 
 ## 📸 Screenshots
 
-Added Todo's
+⇨ Added Todo's
 
 ![ScreenShot1](src/assets/Screenshot1.png)
 
-Some Todo's Completed
+⇨ Some Todo's Completed
 
 ![ScreenShot2](src/assets/Screenshot2.png)
 
