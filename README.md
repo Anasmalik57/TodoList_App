@@ -27,14 +27,16 @@ React Icons
 UUID (for unique task IDs)
 
 ## 📸 Screenshots
+⇨ Folder Structure
+![ScreenShot1](src/assets/folderStructure.png)
 
 ⇨ Added Todo's
 
-![ScreenShot1](src/assets/Screenshot1.png)
+![ScreenShot2](src/assets/Screenshot1.png)
 
 ⇨ Some Todo's Completed
 
-![ScreenShot2](src/assets/Screenshot2.png)
+![ScreenShot3](src/assets/Screenshot2.png)
 
 🔧 Installation & Setup
 
