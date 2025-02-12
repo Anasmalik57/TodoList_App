@@ -26,9 +26,9 @@ React Icons
 
 UUID (for unique task IDs)
 
-📸 Screenshot
-[ScreenShot1](`.\assets\Screenshot1.png`)
-[ScreenShot2](`.\assets\Screenshot2.png`)
+## 📸 Screenshots
+![ScreenShot1](src/assets/Screenshot1.png)
+![ScreenShot2](src/assets/Screenshot2.png)
 
 🔧 Installation & Setup
 
@@ -63,11 +63,11 @@ Show/hide completed tasks: Use the checkbox toggle.
 
 TodoList_App/
 │-- src/
-│ ├── components/
-│ │ ├── Navbar.js
-│ ├── App.js
-│ ├── main.jsx
-│ ├── index.css
+│   ├── components/
+│   │   ├── Navbar.js
+│   ├── App.js
+│   ├── main.jsx
+│   ├── index.css
 │-- public/
 │-- package.json
 │-- README.md
