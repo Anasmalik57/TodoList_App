@@ -27,9 +27,6 @@ React Icons
 UUID (for unique task IDs)
 
 ## 📸 Screenshots
-⇨ Folder Structure
-![ScreenShot1](src/assets/folderStructure.png)
-
 ⇨ Added Todo's
 
 ![ScreenShot2](src/assets/Screenshot1.png)
@@ -68,17 +65,8 @@ Delete a task: Click the trash icon (🗑️) to remove a task.
 Show/hide completed tasks: Use the checkbox toggle.
 
 🛠️ Project Structure
-
-TodoList_App/
-│-- src/
-│   ├── components/
-│   │   ├── Navbar.js
-│   ├── App.js
-│   ├── main.jsx
-│   ├── index.css
-│-- public/
-│-- package.json
-│-- README.md
+⇨ Folder Structure
+![ScreenShot1](src/assets/folderStructure.png)
 
 📌 Contributing
 
