@@ -18,7 +18,7 @@ const App = () => {
       setTodos(todos);
     }
   }, []);
-
+  
   const savetoLS = () => {
     localStorage.setItem("todos", JSON.stringify(todos));
   };
@@ -76,7 +76,7 @@ const App = () => {
 
   const clearStrorageHandle = () => {
     localStorage.clear();
-    location.reload()
+    location.reload();
   };
 
   return (
@@ -88,7 +88,7 @@ const App = () => {
             <h2 className="text-lg">Add a Todo</h2>
             <button className="text-white  p-1 lg:p-2 rounded-md bg-violet-800 hover:bg-violet-950 border-none text-sm font-bold tracking-wide  selection:bg-transparent active:scale-110 transition-all duration-100 ease-in mr-6">
               <TbRefresh
-                onClickCapture={clearStrorageHandle}
+                onClick={clearStrorageHandle}
                 className="active:animate-spin transition-all duration-300 ease-in"
                 size={18}
               />
