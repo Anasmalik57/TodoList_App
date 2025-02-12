@@ -27,8 +27,8 @@ React Icons
 UUID (for unique task IDs)
 
 📸 Screenshot
-![ScreenShot1](`C:\Users\itsan\Desktop\Sigma-Projects\Todo_List\src\assets\Screenshot1.png`)
-![ScreenShot2](`C:\Users\itsan\Desktop\Sigma-Projects\Todo_List\src\assets\Screenshot2.png`)
+[ScreenShot1](`C:\Users\itsan\Desktop\Sigma-Projects\Todo_List\src\assets\Screenshot1.png`)
+[ScreenShot2](`C:\Users\itsan\Desktop\Sigma-Projects\Todo_List\src\assets\Screenshot2.png`)
 
 🔧 Installation & Setup
 
